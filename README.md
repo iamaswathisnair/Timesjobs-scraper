@@ -9,12 +9,14 @@ Saves job listings to text files
 Runs continuously, scraping new job listings every 10 minutes
 
 Requirements
+
 Python 3.x
 BeautifulSoup
 requests
 time
 
 How it Works
+
 The script sends a GET request to TimesJobs.com to retrieve the HTML content of the job listings page.
 The script uses BeautifulSoup to parse the HTML content and extract the job listings.
 The script filters the job listings based on the specified skill and saves them to text files.
