@@ -2,6 +2,7 @@
 A Python script that scrapes job listings from TimesJobs.com and saves them to text files based on a specified skill filter.
 
 Features
+
 Scrapes job listings from TimesJobs.com
 Filters job listings based on a specified skill
 Saves job listings to text files
